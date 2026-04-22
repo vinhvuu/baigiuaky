@@ -1,0 +1,7 @@
+Danh sách chi tiêu:
+banh mi: 10000.0
+nuoc ngot: 20000.0
+tra da: 3000.0
+
+Tổng tiền: 33000.0
+Món đắt nhất: nuoc ngot - 20000.0
